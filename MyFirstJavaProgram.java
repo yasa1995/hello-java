@@ -7,6 +7,6 @@ public class MyFirstJavaProgram {
     */
 
    public static void main(String []args) {
-      System.out.println("Hello Jenkins"); // prints Hello World
+      System.out.println("Hello work work work"); // prints Hello World
    }
 }
